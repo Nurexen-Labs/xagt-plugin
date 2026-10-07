@@ -16,7 +16,7 @@
 | 4 | [Finfold Growth Mission (#34)](https://github.com/xagentAI/xagt-plugin/pull/34) | [Regimen (#78)](https://github.com/xagentAI/xagt-plugin/pull/78) | 8,000 X-Points |
 | 5 | [Life Exchange Rate (#64)](https://github.com/xagentAI/xagt-plugin/pull/64) | [BHRIGU OlaXBT Strategy Evidence Agent (#55)](https://github.com/xagentAI/xagt-plugin/pull/55) | 5,000 X-Points |
 
-**受賞チームは[公式結果発表ポスト](https://x.com/XAgent_official/status/2106976361508123050)に返信するか、[@XAgent_official](https://x.com/XAgent_official)へ DM をお送りください。** **プロジェクト名と GitHub PR のリンク**を添えて、報酬の受け取りについてご連絡ください。**DM には報酬受取用ウォレットアドレスとブロックチェーンのネットワーク名も記載してください。** 配布前に運営が対応ネットワークを確認します。報酬はメンバーごとではなくチーム単位です。ウォレット情報は公開コメントに投稿しないでください。
+**受賞チームは[公式結果発表ポスト](https://x.com/XAgent_official/status/2106976361508123050)に返信するか、Telegram の [KK KongKou](https://t.me/KongK0u) へ DM をお送りください。** **プロジェクト名と GitHub PR のリンク**を添えて、報酬の受け取りについてご連絡ください。**DM には報酬受取用ウォレットアドレスとブロックチェーンのネットワーク名も記載してください。** 配布前に運営が対応ネットワークを確認します。報酬はメンバーごとではなくチーム単位です。ウォレット情報は公開コメントに投稿しないでください。
 
 [受賞結果一覧と報酬の連絡先](./docs/mcp-hackathon-2026-winners.md)
 
