@@ -16,7 +16,25 @@ English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md)
 | 4 | [Finfold Growth Mission (#34)](https://github.com/xagentAI/xagt-plugin/pull/34) | [Regimen (#78)](https://github.com/xagentAI/xagt-plugin/pull/78) | 8,000 X-Points |
 | 5 | [Life Exchange Rate (#64)](https://github.com/xagentAI/xagt-plugin/pull/64) | [BHRIGU OlaXBT Strategy Evidence Agent (#55)](https://github.com/xagentAI/xagt-plugin/pull/55) | 5,000 X-Points |
 
-**Winning teams:** reply to the [official announcement on X](https://x.com/XAgent_official/status/2106976361508123050) or send a private message to [KK KongKou on Telegram](https://t.me/KongK0u). Include your **project name and GitHub PR link** to arrange your reward. In your **private message**, also provide your **reward-receiving wallet address and its blockchain network**. The team will confirm the supported network before distribution. Rewards are per team, not per member; do not post your wallet details in public comments.
+### Claim your reward
+
+**Rewards are per team, not per member.**
+
+1. **Confirm your Telegram on the original PR.** You must use the GitHub account that created your original submission PR to comment on that same PR and confirm your Telegram username.
+2. **Contact admin on Telegram.** Using that Telegram account, send a private message to [admin](https://t.me/KongK0u) and include your original PR link.
+3. **Provide wallet details after verification.** Once an administrator has verified your identity, send your reward-receiving wallet address and blockchain network in the same private conversation.
+
+#### Comment example
+
+Replace `@YOUR_USERNAME` with your Telegram username:
+
+```text
+My Telegram is @YOUR_USERNAME. I’ll contact admin to claim our team’s reward.
+```
+
+#### Safety reminder
+
+Do not post wallet details publicly. We will never ask for your private key, recovery phrase, or a payment to claim your reward.
 
 [Full results and reward contact instructions](./docs/mcp-hackathon-2026-winners.md)
 
