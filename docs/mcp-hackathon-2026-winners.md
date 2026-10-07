@@ -34,7 +34,9 @@ This document is the repository’s permanent reference for the final winners an
 
 1. **Confirm your Telegram on the original PR.** You must use the GitHub account that created your original submission PR to comment on that same PR and confirm your Telegram username.
 2. **Contact admin on Telegram.** Using that Telegram account, send a private message to [admin](https://t.me/KongK0u) and include your original PR link.
-3. **Provide wallet details after verification.** Once an administrator has verified your identity, send your reward-receiving wallet address and blockchain network in the same private conversation.
+3. **Verify identity, then provide wallet details.** admin must check on GitHub that the comment author is the original PR creator, then open the exact Telegram username or link specified in that comment to confirm the corresponding account. A private sender’s display name or screenshot alone is not sufficient. After verification, send your reward-receiving wallet address and blockchain network in that same private conversation.
+
+The public PR comment authorizes contact; it is not a secret passphrase.
 
 ### Comment example
 
