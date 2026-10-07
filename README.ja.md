@@ -16,7 +16,27 @@
 | 4 | [Finfold Growth Mission (#34)](https://github.com/xagentAI/xagt-plugin/pull/34) | [Regimen (#78)](https://github.com/xagentAI/xagt-plugin/pull/78) | 8,000 X-Points |
 | 5 | [Life Exchange Rate (#64)](https://github.com/xagentAI/xagt-plugin/pull/64) | [BHRIGU OlaXBT Strategy Evidence Agent (#55)](https://github.com/xagentAI/xagt-plugin/pull/55) | 5,000 X-Points |
 
-**受賞チームは[公式結果発表ポスト](https://x.com/XAgent_official/status/2106976361508123050)に返信するか、Telegram の [KK KongKou](https://t.me/KongK0u) へ DM をお送りください。** **プロジェクト名と GitHub PR のリンク**を添えて、報酬の受け取りについてご連絡ください。**DM には報酬受取用ウォレットアドレスとブロックチェーンのネットワーク名も記載してください。** 配布前に運営が対応ネットワークを確認します。報酬はメンバーごとではなくチーム単位です。ウォレット情報は公開コメントに投稿しないでください。
+### 報酬の受け取り手順
+
+**報酬はメンバーごとではなくチーム単位です。**
+
+1. **元の提出 PR で Telegram を確認する。** 元の提出 PR を作成した GitHub アカウントを必ず使用し、同じ PR に Telegram ユーザー名を確認するコメントを投稿してください。
+2. **Telegram で admin に連絡する。** 上記の Telegram アカウントから [admin](https://t.me/KongK0u) にプライベートメッセージを送り、元の提出 PR のリンクをお知らせください。
+3. **本人確認後にウォレット情報を送る。** admin は GitHub の元の PR でコメントの投稿者が PR の作成者本人であることを確認し、コメントに指定された正確な Telegram ユーザー名またはリンクからチャットを開いて、対応するアカウントを確認します。DM の送信者の表示名やスクリーンショットだけでは確認できません。確認後、同じプライベートチャットで受け取り用ウォレットアドレスとブロックチェーンのネットワーク名をお知らせください。
+
+公開 PR コメントは連絡先を指定して連絡を許可するためのもので、秘密の合言葉ではありません。
+
+#### コメント例
+
+`@YOUR_USERNAME` を自分の Telegram ユーザー名に置き換えてください：
+
+```text
+My Telegram is @YOUR_USERNAME. I’ll contact admin to claim our team’s reward.
+```
+
+#### 安全上の注意
+
+ウォレット情報を公開しないでください。運営が秘密鍵、シードフレーズ、または報酬を受け取るための支払いを求めることはありません。
 
 [受賞結果一覧と報酬の連絡先](./docs/mcp-hackathon-2026-winners.md)
 

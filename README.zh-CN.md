@@ -16,7 +16,27 @@
 | 4 | [Finfold Growth Mission (#34)](https://github.com/xagentAI/xagt-plugin/pull/34) | [Regimen (#78)](https://github.com/xagentAI/xagt-plugin/pull/78) | 8,000 X-Points |
 | 5 | [Life Exchange Rate (#64)](https://github.com/xagentAI/xagt-plugin/pull/64) | [BHRIGU OlaXBT Strategy Evidence Agent (#55)](https://github.com/xagentAI/xagt-plugin/pull/55) | 5,000 X-Points |
 
-**请获奖团队在[官方获奖推文](https://x.com/XAgent_official/status/2106976361508123050)下回复，或通过 Telegram 私信 [KK KongKou](https://t.me/KongK0u)**，提供**项目名称和 GitHub PR 链接**，以便核对获奖项目并安排领奖。请在**私信中同时提供领奖钱包地址及所属区块链网络**，发奖前由官方确认支持的网络。奖励按团队发放，不按成员分别发放；请勿在公开评论中提交钱包信息。
+### 领奖流程
+
+**奖励按团队发放，不按成员分别发放。**
+
+1. **在原参赛 PR 确认 Telegram。** 必须使用创建原参赛 PR 的 GitHub 账号，在同一个 PR 下留言确认自己的 Telegram 用户名。
+2. **通过 Telegram 联系 admin。** 使用上述 Telegram 账号私信 [admin](https://t.me/KongK0u)，并提供原参赛 PR 链接。
+3. **核验身份后提交钱包信息。** admin 必须在 GitHub 原 PR 核对评论账号确为原 PR 作者，再通过评论指定的准确 Telegram 用户名或链接进入聊天，确认对应账号，不能只凭主动私聊者的昵称或截图。核验通过后，在同一私聊中提交接收奖励的钱包地址及所属区块链网络。
+
+公开 PR 留言是授权联系入口，不是秘密口令。
+
+#### 留言示例
+
+将 `@YOUR_USERNAME` 替换为你的 Telegram 用户名：
+
+```text
+My Telegram is @YOUR_USERNAME. I’ll contact admin to claim our team’s reward.
+```
+
+#### 安全提醒
+
+请勿公开钱包资料。我们绝不会索取私钥、助记词，或要求支付任何领奖费用。
 
 [完整获奖公告与领奖联系方式](./docs/mcp-hackathon-2026-winners.md)
 
