@@ -2,19 +2,37 @@
 
 [English](./README.md) | 简体中文 | [日本語](./README.ja.md)
 
+## 获奖结果已公布，请获奖团队联系领奖
+
+**恭喜 10 支获奖团队！总奖励：1,000 USDT + 100,000 X-Points。**
+
+| 名次 | 开放创新赛道 | OlaXBT × X-Agent 交易挑战赛 | 每个赛道对应团队的奖励 |
+| --- | --- | --- | --- |
+| 1 | [Sumplus Model Desk (#62)](https://github.com/xagentAI/xagt-plugin/pull/62) | [Strategy Increment (#84)](https://github.com/xagentAI/xagt-plugin/pull/84) | 500 USDT + 15,000 X-Points |
+| 2 | [BountyProof (#42)](https://github.com/xagentAI/xagt-plugin/pull/42) | [AlphaLitmus (#75)](https://github.com/xagentAI/xagt-plugin/pull/75) | 12,000 X-Points |
+| 3 | [OpenAgent Email (#72)](https://github.com/xagentAI/xagt-plugin/pull/72) | [Abstain (#68)](https://github.com/xagentAI/xagt-plugin/pull/68) | 10,000 X-Points |
+| 4 | [Finfold Growth Mission (#34)](https://github.com/xagentAI/xagt-plugin/pull/34) | [Regimen (#78)](https://github.com/xagentAI/xagt-plugin/pull/78) | 8,000 X-Points |
+| 5 | [Life Exchange Rate (#64)](https://github.com/xagentAI/xagt-plugin/pull/64) | [BHRIGU OlaXBT Strategy Evidence Agent (#55)](https://github.com/xagentAI/xagt-plugin/pull/55) | 5,000 X-Points |
+
+**请获奖团队在[官方获奖推文](https://x.com/XAgent_official/status/2106976361508123050)下回复，或私信 [@XAgent_official](https://x.com/XAgent_official)**，提供**项目名称和 GitHub PR 链接**，以便核对获奖项目并安排领奖。请在**私信中同时提供领奖钱包地址及所属区块链网络**，发奖前由官方确认支持的网络。奖励按团队发放，不按成员分别发放；请勿在公开评论中提交钱包信息。
+
+[完整获奖公告与领奖联系方式](./docs/mcp-hackathon-2026-winners.md)
+
+---
+
 [![X-Agent AI MCP 黑客松 2026：9 月 2 日至 10 月 4 日，总奖池 1,000 USDT 和 100,000 X-Points](https://xagt.ai/hackathon/og-cover.jpg)](https://xagt.ai/hackathon?lang=zh)
 
 > **构建真实可用、可验证的 Agent 与 MCP 应用。两个赛道，总奖池 1,000 USDT + 100,000 X-Points。活动时间：2026 年 9 月 2 日至 10 月 4 日。**
 
 本仓库是 X-Agent AI MCP 黑客松 2026 的官方代码提交入口，同时包含 `@xagt/agent-plugin` 安装工具。
 
-[活动介绍与规则](https://xagt.ai/hackathon?lang=zh) · [Luma 报名](https://luma.com/h0qt02e4) · [Telegram 社群](https://t.me/XAgent_official)
+[活动介绍与规则](https://xagt.ai/hackathon?lang=zh) · [Luma 活动页](https://luma.com/h0qt02e4) · [Telegram 社群](https://t.me/XAgent_official)
 
 往期活动：[X-Agent × OKX Agentic Wallet Hackathon · 2026 年 5 月](./docs/archive/2026-xagent-okx-agentic-wallet-hackathon.md) · [代码与提交归档](./submissions/INDEX.md)
 
-## 当前活动：X-Agent AI MCP 黑客松 2026
+## 活动规则与提交说明存档：X-Agent AI MCP 黑客松 2026
 
-面向全球开发者和团队，欢迎围绕 AI、加密领域、数据、自动化和 Agent 基础设施构建实用应用。请从**两个赛道中选择一个**，统一通过本仓库提交，两个赛道分别评奖。当前活动的时间、奖励与赛道规则以[活动页](https://xagt.ai/hackathon?lang=zh)为准。
+本届活动已结束，获奖名单见上方。以下保留原活动规则与提交说明，供查阅；两个赛道分别评奖。
 
 ### 选择你的赛道
 

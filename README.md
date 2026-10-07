@@ -2,17 +2,35 @@
 
 English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md)
 
+## Winners announced — contact X-Agent for your reward
+
+**Congratulations to the 10 winning teams! Total rewards: 1,000 USDT + 100,000 X-Points.**
+
+| Place | Open Innovation | OlaXBT × X-Agent Trading Challenge | Reward per team in each track |
+| --- | --- | --- | --- |
+| 1 | [Sumplus Model Desk (#62)](https://github.com/xagentAI/xagt-plugin/pull/62) | [Strategy Increment (#84)](https://github.com/xagentAI/xagt-plugin/pull/84) | 500 USDT + 15,000 X-Points |
+| 2 | [BountyProof (#42)](https://github.com/xagentAI/xagt-plugin/pull/42) | [AlphaLitmus (#75)](https://github.com/xagentAI/xagt-plugin/pull/75) | 12,000 X-Points |
+| 3 | [OpenAgent Email (#72)](https://github.com/xagentAI/xagt-plugin/pull/72) | [Abstain (#68)](https://github.com/xagentAI/xagt-plugin/pull/68) | 10,000 X-Points |
+| 4 | [Finfold Growth Mission (#34)](https://github.com/xagentAI/xagt-plugin/pull/34) | [Regimen (#78)](https://github.com/xagentAI/xagt-plugin/pull/78) | 8,000 X-Points |
+| 5 | [Life Exchange Rate (#64)](https://github.com/xagentAI/xagt-plugin/pull/64) | [BHRIGU OlaXBT Strategy Evidence Agent (#55)](https://github.com/xagentAI/xagt-plugin/pull/55) | 5,000 X-Points |
+
+**Winning teams:** reply to the [official announcement on X](https://x.com/XAgent_official/status/2106976361508123050) or send a direct message to [@XAgent_official](https://x.com/XAgent_official). Include your **project name and GitHub PR link** to arrange your reward. In your **private message**, also provide your **reward-receiving wallet address and its blockchain network**. The team will confirm the supported network before distribution. Rewards are per team, not per member; do not post your wallet details in public comments.
+
+[Full results and reward contact instructions](./docs/mcp-hackathon-2026-winners.md)
+
+---
+
 [![X-Agent AI MCP Hackathon 2026 — September 2 to October 4; 1,000 USDT and 100,000 X-Points](https://xagt.ai/hackathon/og-cover.jpg)](https://xagt.ai/hackathon?lang=en)
 
 > **Build live, verifiable Agent and MCP applications with real-world utility. Two tracks, 1,000 USDT + 100,000 X-Points in total rewards. September 2–October 4, 2026.**
 
 This repository is the official code-submission hub for the X-Agent AI MCP Hackathon 2026. It also contains the `@xagt/agent-plugin` installer.
 
-[Event page and rules](https://xagt.ai/hackathon?lang=en) · [Register on Luma](https://luma.com/h0qt02e4) · [Telegram community](https://t.me/XAgent_official)
+[Event page and rules](https://xagt.ai/hackathon?lang=en) · [Event on Luma](https://luma.com/h0qt02e4) · [Telegram community](https://t.me/XAgent_official)
 
-## Current program: X-Agent AI MCP Hackathon 2026
+## Event rules and submission reference: X-Agent AI MCP Hackathon 2026
 
-Developers and teams worldwide are invited to build useful applications across AI, crypto, data, automation, and agent infrastructure. Choose **one of two tracks**; both submit through this repository and are judged separately. The [event page](https://xagt.ai/hackathon?lang=en) is the reference for the current schedule, rewards, and track rules.
+The event has concluded and the winners are listed above. The original event rules and submission instructions below are retained for reference. The two tracks were judged separately.
 
 ### Choose your track
 
