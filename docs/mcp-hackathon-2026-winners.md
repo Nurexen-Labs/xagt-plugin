@@ -1,10 +1,12 @@
 # X-Agent AI MCP Hackathon 2026 — Winners & Reward Contact
 
-Congratulations to all winning teams! The results have been announced through X-Agent’s official channel.
+**The X-Agent AI MCP Hackathon 2026 has concluded. Submissions are closed.**
+
+This document is the repository’s permanent reference for the final winners and reward contact instructions. Congratulations to all 10 winning teams! The results have been announced through X-Agent’s official channel.
 
 **Two tracks. Two champions. Total rewards: 1,000 USDT + 100,000 X-Points.**
 
-[Official announcement on X](https://x.com/XAgent_official/status/2106976361508123050)
+[Official announcement on X](https://x.com/XAgent_official/status/2106976361508123050) · [Announcement discussion](https://github.com/xagentAI/xagt-plugin/issues/90)
 
 ## Open Innovation
 
@@ -33,5 +35,11 @@ To arrange your team’s reward, please **reply to the [official announcement on
 Include your **project name and GitHub submission PR link** so the team can match your message to the winning entry. In a **private message to @XAgent_official**, also provide your **reward-receiving wallet address and its blockchain network**. The team will confirm the supported network before distribution and coordinate the next steps through the official account.
 
 **Rewards are per team, not per member.** Please keep any reward-delivery details in a private message rather than a public GitHub comment or public X reply.
+
+## Event archive
+
+- [English README](../README.md) · [简体中文](../README.zh-CN.md) · [日本語](../README.ja.md)
+- [Archived program and review rules](./mcp-hackathon.md)
+- [Archived submission contract](../submissions/README.md)
 
 Thank you to every team that built and submitted a project, and to OlaXBT for supporting the hackathon.

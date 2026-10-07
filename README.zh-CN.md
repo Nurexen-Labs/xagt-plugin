@@ -2,7 +2,9 @@
 
 [English](./README.md) | 简体中文 | [日本語](./README.ja.md)
 
-## 获奖结果已公布，请获奖团队联系领奖
+## 活动已结束 · 最终获奖名单
+
+**X-Agent AI MCP 黑客松 2026 已结束，参赛提交已关闭。**
 
 **恭喜 10 支获奖团队！总奖励：1,000 USDT + 100,000 X-Points。**
 
@@ -22,9 +24,9 @@
 
 [![X-Agent AI MCP 黑客松 2026：9 月 2 日至 10 月 4 日，总奖池 1,000 USDT 和 100,000 X-Points](https://xagt.ai/hackathon/og-cover.jpg)](https://xagt.ai/hackathon?lang=zh)
 
-> **构建真实可用、可验证的 Agent 与 MCP 应用。两个赛道，总奖池 1,000 USDT + 100,000 X-Points。活动时间：2026 年 9 月 2 日至 10 月 4 日。**
+> **活动存档：2026 年 9 月 2 日至 10 月 4 日。两个赛道，总奖池 1,000 USDT + 100,000 X-Points。最终获奖名单见上方。**
 
-本仓库是 X-Agent AI MCP 黑客松 2026 的官方代码提交入口，同时包含 `@xagt/agent-plugin` 安装工具。
+本仓库保留 X-Agent AI MCP 黑客松 2026 的参赛作品、最终获奖结果和活动文档，同时包含 `@xagt/agent-plugin` 安装工具。
 
 [活动介绍与规则](https://xagt.ai/hackathon?lang=zh) · [Luma 活动页](https://luma.com/h0qt02e4) · [Telegram 社群](https://t.me/XAgent_official)
 
