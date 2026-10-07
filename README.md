@@ -2,7 +2,9 @@
 
 English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md)
 
-## Winners announced — contact X-Agent for your reward
+## Event concluded · Final winners
+
+**The X-Agent AI MCP Hackathon 2026 has ended. Submissions are closed.**
 
 **Congratulations to the 10 winning teams! Total rewards: 1,000 USDT + 100,000 X-Points.**
 
@@ -22,13 +24,13 @@ English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md)
 
 [![X-Agent AI MCP Hackathon 2026 — September 2 to October 4; 1,000 USDT and 100,000 X-Points](https://xagt.ai/hackathon/og-cover.jpg)](https://xagt.ai/hackathon?lang=en)
 
-> **Build live, verifiable Agent and MCP applications with real-world utility. Two tracks, 1,000 USDT + 100,000 X-Points in total rewards. September 2–October 4, 2026.**
+> **Event archive: September 2–October 4, 2026. Two tracks, 1,000 USDT + 100,000 X-Points in total rewards. See the final winners above.**
 
-This repository is the official code-submission hub for the X-Agent AI MCP Hackathon 2026. It also contains the `@xagt/agent-plugin` installer.
+This repository preserves the submissions, final results, and event documentation for the X-Agent AI MCP Hackathon 2026. It also contains the `@xagt/agent-plugin` installer.
 
 [Event page and rules](https://xagt.ai/hackathon?lang=en) · [Event on Luma](https://luma.com/h0qt02e4) · [Telegram community](https://t.me/XAgent_official)
 
-## Event rules and submission reference: X-Agent AI MCP Hackathon 2026
+## Archived event rules and submission reference: X-Agent AI MCP Hackathon 2026
 
 The event has concluded and the winners are listed above. The original event rules and submission instructions below are retained for reference. The two tracks were judged separately.
 
@@ -256,7 +258,7 @@ Selected teams proceed to MCP productization. X-Agent works with them on tool bo
 
 ## Agent plugin setup
 
-Plugin installation is optional for the current MCP Hackathon submission. It remains available for Cursor, Claude Code, Codex, OpenCode, and AgentSkills-compatible runtimes.
+Plugin installation was optional for MCP Hackathon submissions. It remains available for Cursor, Claude Code, Codex, OpenCode, and AgentSkills-compatible runtimes.
 
 ```bash
 npx @xagt/agent-plugin@latest setup --target all

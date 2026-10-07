@@ -2,7 +2,9 @@
 
 [English](./README.md) | [简体中文](./README.zh-CN.md) | 日本語
 
-## 受賞結果発表 — 受賞チームは X-Agent へご連絡ください
+## イベント終了 · 最終受賞結果
+
+**X-Agent AI MCP ハッカソン 2026 は終了しました。応募受付は終了しています。**
 
 **受賞した 10 チームの皆さま、おめでとうございます！報酬総額：1,000 USDT + 100,000 X-Points。**
 
@@ -22,9 +24,9 @@
 
 [![X-Agent AI MCP ハッカソン 2026：9月2日〜10月4日、賞金・報酬総額 1,000 USDT + 100,000 X-Points](https://xagt.ai/hackathon/og-cover.jpg)](https://xagt.ai/hackathon?lang=ja)
 
-> **実際に動作し、検証できる Agent・MCP アプリケーションを開発しましょう。2 つのトラック、賞金・報酬総額 1,000 USDT + 100,000 X-Points。開催期間：2026年9月2日〜10月4日。**
+> **イベント記録：2026年9月2日〜10月4日。2 つのトラック、賞金・報酬総額 1,000 USDT + 100,000 X-Points。最終受賞結果は上記をご覧ください。**
 
-このリポジトリは、X-Agent AI MCP ハッカソン 2026 の公式コード提出窓口です。`@xagt/agent-plugin` のインストーラーも収録しています。
+このリポジトリには、X-Agent AI MCP ハッカソン 2026 の提出作品、最終受賞結果、イベント資料を保存しています。`@xagt/agent-plugin` のインストーラーも収録しています。
 
 [イベント概要・ルール](https://xagt.ai/hackathon?lang=ja) · [Luma イベントページ](https://luma.com/h0qt02e4) · [Telegram コミュニティ](https://t.me/XAgent_official)
 
@@ -258,7 +260,7 @@ node dist/cli.js submit \
 
 ## Agent プラグインのセットアップ
 
-プラグインのインストールは、現在の MCP ハッカソンへの提出条件ではありません。Cursor、Claude Code、Codex、OpenCode、AgentSkills 互換ランタイムをサポートします。
+プラグインのインストールは、本イベントへの提出条件ではありませんでした。Cursor、Claude Code、Codex、OpenCode、AgentSkills 互換ランタイムをサポートします。
 
 ```bash
 npx @xagt/agent-plugin@latest setup --target all
