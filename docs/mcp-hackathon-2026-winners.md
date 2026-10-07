@@ -30,9 +30,9 @@ This document is the repository’s permanent reference for the final winners an
 
 ## Winners: please contact X-Agent
 
-To arrange your team’s reward, please **reply to the [official announcement on X](https://x.com/XAgent_official/status/2106976361508123050) or send a direct message to [@XAgent_official](https://x.com/XAgent_official)**.
+To arrange your team’s reward, please **reply to the [official announcement on X](https://x.com/XAgent_official/status/2106976361508123050) or send a private message to [KK KongKou on Telegram](https://t.me/KongK0u)**.
 
-Include your **project name and GitHub submission PR link** so the team can match your message to the winning entry. In a **private message to @XAgent_official**, also provide your **reward-receiving wallet address and its blockchain network**. The team will confirm the supported network before distribution and coordinate the next steps through the official account.
+Include your **project name and GitHub submission PR link** so the team can match your message to the winning entry. In a **private Telegram message to KK KongKou**, also provide your **reward-receiving wallet address and its blockchain network**. The team will confirm the supported network before distribution and coordinate the next steps through this contact.
 
 **Rewards are per team, not per member.** Please keep any reward-delivery details in a private message rather than a public GitHub comment or public X reply.
 
